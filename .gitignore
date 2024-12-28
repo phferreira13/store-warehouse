@@ -1,0 +1,19 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/warehouse.service.api/bin
+/warehouse.service.api/obj
+/warehouse.service.api/Properties
+/warehouse.service.api/publish
+/warehouse.service.business/bin
+/warehouse.service.business/obj
+/warehouse.service.domain/bin
+/warehouse.service.domain/obj
+/warehouse.service.entityframework/bin
+/warehouse.service.entityframework/obj
+/warehouse.service.tests/bin/Debug/net8.0
+/warehouse.service.tests/obj
+/warehouse.service.tests.shared/bin/Debug/net8.0
+/warehouse.service.tests.shared/obj
